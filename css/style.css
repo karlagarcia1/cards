@@ -1,6 +1,6 @@
 :root {
-    --primary: rgb(128, 198, 241);
-    --secondary: rgb(9, 43, 48);
+    --primary: rgb(255, 109, 172);
+    --secondary: rgb(246, 132, 132);
 }
 * {
     margin: 0; 
@@ -60,7 +60,7 @@ body {
 
 .article-preview {
     padding: 24px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 .articles figure {
